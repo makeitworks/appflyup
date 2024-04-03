@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://appflyup.com/sitemap.xml
